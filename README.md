@@ -23,4 +23,9 @@ if incidente["risco_relevante"]:
 
 Fontes: [ANPD — comunicação de incidentes](https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/comunicado-de-incidente-de-seguranca-cis) e [Resolução CD/ANPD nº 15/2024](https://bibliotecadigital.mj.gov.br/bitstream/1/12879/2/RES_ANPD_2024_15.html).
 
+## Executar o exemplo
+
+Com Python 3 instalado, rode `python exemplo.py`. O arquivo usa apenas dados fictícios e inclui verificações simples com `assert`. Ele não substitui a análise jurídica nem executa ações externas.
+
+
 *Exemplo didático. A classificação de risco depende dos fatos e da norma aplicável.*
